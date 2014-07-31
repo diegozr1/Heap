@@ -4,10 +4,12 @@ Heap
 Example of a Javascript Heap
 
 
-You can make a main like this
 
 
 
+======
+
+You can try it like this
 
 function main(){
 		imprimir();
@@ -34,3 +36,5 @@ function main(){
 		borrar();
 		imprimir();
 }
+
+===
